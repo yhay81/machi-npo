@@ -1,0 +1,10 @@
+{
+  "name": "まちのNPO",
+  "short_name": "まちのNPO",
+  "description": "内閣府の行政入力情報から地域と活動分野でNPO法人を探す",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0e3",
+  "theme_color": "#153d45",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

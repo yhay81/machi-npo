@@ -1,0 +1,25 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "machi-npo",
+  "main": "src/worker.tsx",
+  "compatibility_date": "2026-07-29",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [
+    {
+      "pattern": "machi-npo.yhay81.com",
+      "custom_domain": true,
+    },
+  ],
+  "triggers": { "crons": ["56 20 * * *"] },
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "machi-npo",
+      "database_id": "14aafabd-2a35-4d29-b255-94e767c90761",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+}

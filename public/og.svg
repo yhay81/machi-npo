@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">まちのNPO</title>
+  <desc id="desc">地図と活動カードから地域のNPO法人を探す</desc>
+  <rect width="1200" height="630" fill="#f5f0e3"/>
+  <g stroke="#153d45" stroke-opacity=".07" stroke-width="2">
+    <path d="M0 42H1200M0 84H1200M0 126H1200M0 168H1200M0 210H1200M0 252H1200M0 294H1200M0 336H1200M0 378H1200M0 420H1200M0 462H1200M0 504H1200M0 546H1200M0 588H1200"/>
+    <path d="M42 0V630M84 0V630M126 0V630M168 0V630M210 0V630M252 0V630M294 0V630M336 0V630M378 0V630M420 0V630M462 0V630M504 0V630M546 0V630M588 0V630M630 0V630M672 0V630M714 0V630M756 0V630M798 0V630M840 0V630M882 0V630M924 0V630M966 0V630M1008 0V630M1050 0V630M1092 0V630M1134 0V630M1176 0V630"/>
+  </g>
+  <rect x="42" y="38" width="1116" height="554" rx="22" fill="#153d45" stroke="#082d34" stroke-width="5"/>
+  <rect x="65" y="61" width="1070" height="508" rx="14" fill="none" stroke="#fffdf7" stroke-opacity=".2" stroke-width="2"/>
+  <g transform="translate(104 107)" font-family="sans-serif">
+    <text x="0" y="22" fill="#e4bd5b" font-size="16" font-weight="700" letter-spacing="5">47 PREFECTURES · 20 FIELDS</text>
+    <text x="0" y="79" fill="#fffdf7" font-size="43" font-weight="800" letter-spacing="6">まちのNPO</text>
+    <text x="1" y="121" fill="#d7e8e2" font-size="20" letter-spacing="2">地域から、活動する法人を見つける。</text>
+  </g>
+  <g transform="translate(90 273)">
+    <rect width="560" height="250" rx="12" fill="#d7e8e2" stroke="#082d34" stroke-width="7"/>
+    <g stroke="#fffdf7" stroke-opacity=".8" stroke-width="2">
+      <path d="M140 0V250M280 0V250M420 0V250M0 83H560M0 166H560"/>
+    </g>
+    <g fill="#fffdf7" stroke="#2b7774" stroke-width="4">
+      <path d="M454 32c34-10 62 12 66 38-13 25-43 35-68 16-17-13-16-40 2-54z"/>
+      <path d="M332 91c64-15 126 20 141 58-32 24-65 29-102 12-35-16-55-45-39-70z"/>
+      <path d="M158 144c81-25 156 0 191 33-35 38-109 47-172 20-27-12-33-36-19-53z"/>
+      <path d="M45 185c38-13 91-2 112 24-23 22-74 28-107 11-18-9-21-25-5-35z"/>
+      <path d="M416 195c18-7 42 1 51 15-14 13-35 16-48 7-8-5-9-15-3-22z"/>
+    </g>
+    <g fill="#df754b" stroke="#082d34" stroke-width="3">
+      <path d="M461 37c-12 0-21 9-21 21 0 16 21 34 21 34s21-18 21-34c0-12-9-21-21-21z"/><circle cx="461" cy="58" r="6" fill="#fffdf7"/>
+      <path d="M382 108c-12 0-21 9-21 21 0 16 21 34 21 34s21-18 21-34c0-12-9-21-21-21z"/><circle cx="382" cy="129" r="6" fill="#fffdf7"/>
+      <path d="M227 148c-12 0-21 9-21 21 0 16 21 34 21 34s21-18 21-34c0-12-9-21-21-21z"/><circle cx="227" cy="169" r="6" fill="#fffdf7"/>
+      <path d="M90 184c-12 0-21 9-21 21 0 16 21 34 21 34s21-18 21-34c0-12-9-21-21-21z"/><circle cx="90" cy="205" r="6" fill="#fffdf7"/>
+    </g>
+  </g>
+  <g transform="translate(723 148) rotate(2)">
+    <rect width="354" height="367" fill="#082d34" stroke="#082d34" stroke-width="8"/>
+    <g transform="translate(15 15)" font-family="sans-serif">
+      <g>
+        <rect width="324" height="73" fill="#fffdf7"/>
+        <rect x="18" y="17" width="62" height="15" rx="4" fill="#d7e8e2"/>
+        <rect x="18" y="43" width="206" height="9" rx="4" fill="#2b7774"/>
+        <rect x="235" y="20" width="70" height="29" rx="14" fill="#e4bd5b"/>
+        <text x="270" y="40" text-anchor="middle" fill="#082d34" font-size="13" font-weight="800">福祉</text>
+      </g>
+      <g transform="translate(5 83)">
+        <rect width="319" height="73" fill="#fffdf7"/>
+        <rect x="18" y="17" width="71" height="15" rx="4" fill="#f3d8c8"/>
+        <rect x="18" y="43" width="184" height="9" rx="4" fill="#df754b"/>
+        <rect x="230" y="20" width="70" height="29" rx="14" fill="#d7e8e2"/>
+        <text x="265" y="40" text-anchor="middle" fill="#082d34" font-size="13" font-weight="800">まち</text>
+      </g>
+      <g transform="translate(-4 166)">
+        <rect width="328" height="73" fill="#fffdf7"/>
+        <rect x="18" y="17" width="54" height="15" rx="4" fill="#e7e2bc"/>
+        <rect x="18" y="43" width="224" height="9" rx="4" fill="#7da179"/>
+        <rect x="239" y="20" width="70" height="29" rx="14" fill="#e4bd5b"/>
+        <text x="274" y="40" text-anchor="middle" fill="#082d34" font-size="13" font-weight="800">文化</text>
+      </g>
+      <g transform="translate(3 249)">
+        <rect width="321" height="73" fill="#fffdf7"/>
+        <rect x="18" y="17" width="65" height="15" rx="4" fill="#d7e8e2"/>
+        <rect x="18" y="43" width="196" height="9" rx="4" fill="#6195a3"/>
+        <rect x="232" y="20" width="70" height="29" rx="14" fill="#f3d8c8"/>
+        <text x="267" y="40" text-anchor="middle" fill="#082d34" font-size="13" font-weight="800">環境</text>
+      </g>
+    </g>
+  </g>
+  <text x="1077" y="552" text-anchor="end" fill="#e4bd5b" font-family="monospace" font-size="19" font-weight="700" letter-spacing="3">49,062 CARDS</text>
+</svg>
